@@ -1,3 +1,3 @@
 # WaveDropRefresh
 下拉刷新+顶部水滴
-![image](https://github.com/GuiZhouAndroid/SigupSystem/blob/master/Picture/1.jpg)
+![image](https://raw.githubusercontent.com/GuiZhouAndroid/WaveDropRefresh/master/picture.jpg)
